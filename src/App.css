@@ -9,7 +9,7 @@
 .app {
   min-height: 100vh;
   color: rgb(255, 255, 255);
-  background-image: url("C:\PG SEM 2\Mini_Project\bank\src\image\backbround.jpeg");
+  background-image: url("../src/image/backbround.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
